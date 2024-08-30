@@ -19,3 +19,4 @@ build/
 # OpenAPI Generator files
 .openapi-generator/
 
+.kotlin
