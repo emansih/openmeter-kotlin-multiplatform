@@ -1,0 +1,21 @@
+# Gradle-specific files
+.gradle/
+build/
+
+# Generated files
+*.iml
+.idea/
+*.class
+*.log
+*.war
+*.ear
+
+# MacOS-specific files
+.DS_Store
+
+# Kotlin-specific
+*.kotlin_metadata
+
+# OpenAPI Generator files
+.openapi-generator/
+
